@@ -24,6 +24,8 @@
 #
 # Aaron Nielsen
 # Original: 12 January 2012
+#
+# Updated for test
 
 import pyexiv2
 import datetime
